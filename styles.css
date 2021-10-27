@@ -16,5 +16,12 @@ color: hsl(277, 64%, 61%)
 
 h1 {
 font-family: 'Inter', sans-serif;
+  }
+p {
+color: hsla(0, 0%, 100%, 0.75%)
 }
+.lexend { 
+font-family: "Lexend Deca", sans-serif;
+}
+
 
